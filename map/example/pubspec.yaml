@@ -13,6 +13,10 @@ dependencies:
   amap_base_map:
     path: ../
   decorated_flutter: any
+  flushbar:
+    git:
+      url: https://github.com/AndreHaueisen/flushbar
+      ref: dev_version
 
 dev_dependencies:
   flutter_test:

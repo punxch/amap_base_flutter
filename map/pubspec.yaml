@@ -10,9 +10,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  amap_base_core: ^0.0.3
-#  amap_base_core:
-#    path: ../core
+#  amap_base_core: ^0.0.3
+  amap_base_core:
+    path: ../core
+  flushbar:
+    git:
+      url: https://github.com/AndreHaueisen/flushbar
+      ref: dev_version
 
 flutter:
   plugin:
