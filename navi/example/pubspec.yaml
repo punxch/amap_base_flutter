@@ -11,6 +11,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   decorated_flutter: any
+  flushbar:
+    git:
+      url: https://github.com/AndreHaueisen/flushbar
+      ref: dev_version
   amap_base_navi:
     path: ../
 
