@@ -10,7 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  decorated_flutter: any
+  decorated_flutter:
+    path: ../../decorated_flutter/
   amap_base_navi:
     path: ../
 
