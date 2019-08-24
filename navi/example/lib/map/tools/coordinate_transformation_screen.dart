@@ -36,7 +36,8 @@ class _CoordinateTransformationStateScreen
       type: type,
     )
         .then((result) {
-      L.p('result: $result');
+      // L.p('result: $result');
+      print('result: $result');
       setState(() => this.current = result);
     });
   }

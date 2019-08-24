@@ -46,7 +46,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         ndk {
-            abiFilter 'armeabi-v7a'
+            abiFilter 'arm64-v8a'//'armeabi-v7a'
         }
     }
 
