@@ -414,7 +414,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.yohom.amapBaseExample13;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "\"${PROJECT_DIR}/..\"/**";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -541,7 +541,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.yohom.amapBaseExample13;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "\"${PROJECT_DIR}/..\"/**";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -566,7 +566,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.yohom.amapBaseExample13;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "\"${PROJECT_DIR}/..\"/**";
 				VERSIONING_SYSTEM = "apple-generic";
